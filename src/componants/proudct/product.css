@@ -1,0 +1,35 @@
+
+
+
+.pagination{
+    text-align: center;
+    font-size: 33px;
+    /* background-color: antiquewhite; */
+    display: flex !important;
+    justify-content: center !important;
+
+}
+.next-link{
+    margin-left: 200px !important;
+}
+.pagination a{
+    /* background-color: rgb(231, 170, 85); */
+    margin-left: 20px;
+  text-decoration: none;
+}
+.divog{
+    display: flex !important;
+    justify-content: center !important;
+}
+.pagination:nth-child(){
+background-color: brown;
+}
+.heart{
+    position: absolute !important;
+    top: 0px;
+margin:1em 2em;
+background-color: #0000005d;
+width: 30%;
+padding: 1em  0;
+
+}
